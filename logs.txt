@@ -1,0 +1,80 @@
+GIT LOG
+C:\Users\User\softversko\SI_2023_lab1_173009>git log
+commit 87ade468d71468a8a4e3f255ce525453259f8f98 (HEAD -> master, origin/master, origin/bug3, bug3)
+commit 87ade468d71468a8a4e3f255ce525453259f8f98 (HEAD -> master, origin/master, origin/bug3, bug3)
+commit 87ade468d71468a8a4e3f255ce525453259f8f98 (HEAD -> master, origin/master, origin/bug3, bug3)
+Merge: aa09f9b 9368f31
+Author: smitkovska <s_mitkovska@yahoo.com>
+Date:   Wed Apr 5 13:02:03 2023 +0200
+
+    Merge branch 'bug3'
+
+commit aa09f9b3f55e97cbac14f826a8acc2722bc0ac19
+Merge: 94caf50 4840719
+Author: smitkovska <s_mitkovska@yahoo.com>
+Date:   Wed Apr 5 13:01:59 2023 +0200
+
+    Merge branch 'bug2'
+
+commit 9368f31ab5de54be056d88d3508b475ffe3c98c5
+Author: smitkovska <s_mitkovska@yahoo.com>
+Date:   Wed Apr 5 12:59:06 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 4840719a633a045bb5d2f110a2d7418bb0f6572d (origin/bug2, bug2)
+Author: smitkovska <s_mitkovska@yahoo.com>
+Date:   Wed Apr 5 12:57:35 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 94caf50bdd0eb713b187aad02f2fa791d560f42b (origin/bug1, bug1)
+Author: smitkovska <s_mitkovska@yahoo.com>
+Date:   Wed Apr 5 12:48:50 2023 +0200
+:...skipping...
+commit 87ade468d71468a8a4e3f255ce525453259f8f98 (HEAD -> master, origin/master, origin/bug3, bug3)
+commit 87ade468d71468a8a4e3f255ce525453259f8f98 (HEAD -> master, origin/master, origin/bug3, bug3)
+Merge: aa09f9b 9368f31
+Author: smitkovska <s_mitkovska@yahoo.com>
+Date:   Wed Apr 5 13:02:03 2023 +0200
+
+    Merge branch 'bug3'
+
+commit aa09f9b3f55e97cbac14f826a8acc2722bc0ac19
+Merge: 94caf50 4840719
+Author: smitkovska <s_mitkovska@yahoo.com>
+Date:   Wed Apr 5 13:01:59 2023 +0200
+
+    Merge branch 'bug2'
+
+commit 9368f31ab5de54be056d88d3508b475ffe3c98c5
+Author: smitkovska <s_mitkovska@yahoo.com>
+Date:   Wed Apr 5 12:59:06 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 4840719a633a045bb5d2f110a2d7418bb0f6572d (origin/bug2, bug2)
+Author: smitkovska <s_mitkovska@yahoo.com>
+Date:   Wed Apr 5 12:57:35 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 94caf50bdd0eb713b187aad02f2fa791d560f42b (origin/bug1, bug1)
+Author: smitkovska <s_mitkovska@yahoo.com>
+Date:   Wed Apr 5 12:48:50 2023 +0200
+
+    Fix wrong loop for reading.
+
+commit bd77c6ff79ea20795aeaa1fde2ac79c5d8555670
+Author: smitkovska <s_mitkovska@yahoo.com>
+Date:   Wed Apr 5 12:15:57 2023 +0200
+
+    Add java class
+
+commit 326777787794c5567bae957f54ca5cef4a611986
+Author: smitkovska <s_mitkovska@yahoo.com>
+Date:   Wed Apr 5 11:55:32 2023 +0200
+
+    Initial commit
+(END)
+
